@@ -1,12 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4C0D1&height=160§ion=header&text=hi%20i%27m%20ziemniak04%20%F0%9F%8C%B8&fontSize=32&fontColor=72243E&fontAlignY=55&animation=fadeIn)
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=D4537E¢er=true&vCenter=true&width=435&lines=hi%2C+i'm+ziemniak04+%CB%9A%CA%9A%E2%99%A1%C9%9E%CB%9A;medical+informatics+student;night+owl+%26+coffee+addict" alt="ziemniak04" />
+**medical informatics student  ·  wrocław, poland 🇵🇱  ·  she/her**
 
-<br/>
-
-![wrocław](https://img.shields.io/badge/wrocław%2C_poland-%F0%9F%87%B5%F0%9F%87%B1-FBEAF0?style=flat&labelColor=FBEAF0&color=FBEAF0&logoColor=72243E)
-![she/her](https://img.shields.io/badge/she%2Fher-FBEAF0?style=flat&labelColor=FBEAF0&color=FBEAF0)
-![student](https://img.shields.io/badge/medical_informatics_student-FBEAF0?style=flat&labelColor=FBEAF0&color=FBEAF0)
+![Profile views](https://komarev.com/ghpvc/?username=ziemniak04&label=profile+views&color=ED93B1&style=flat)
 
 </div>
 
@@ -42,6 +40,18 @@
 
 ---
 
+### 📊 &nbsp; github stats
+
+<div align="center">
+
+![ziemniak04's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziemniak04&show_icons=true&title_color=D4537E&icon_color=ED93B1&text_color=72243E&bg_color=FBEAF0&border_color=F4C0D1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziemniak04&ring=ED93B1&fire=D4537E&currStreakLabel=72243E&background=FBEAF0&border=F4C0D1&stroke=F4C0D1&currStreakNum=D4537E&sideLabels=993556&sideNums=D4537E&dates=993556)
+
+</div>
+
+---
+
 ### 🌱 &nbsp; currently
 
 - 🎓 &nbsp; studying medical informatics
@@ -53,3 +63,5 @@
 <div align="center">
   <sub>✦ made with ☕ in wrocław at 2am ✦</sub>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F4C0D1&height=100§ion=footer)
